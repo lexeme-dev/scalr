@@ -100,3 +100,15 @@ and Caselaw Access Project for their work in making legal data more accessible.
 
 SCALR is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Any questions or comments regarding the dataset can be directed to Faiz Surani at
 `faiz [at] faizsurani.com`.
+
+SCALR was released as part of LegalBench, a collaborative effort to measure legal reasoning in large language models. Please cite LegalBench as follows:
+```
+@misc{guha2023legalbench,
+      title={LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models}, 
+      author={Neel Guha and Julian Nyarko and Daniel E. Ho and Christopher Ré and Adam Chilton and Aditya Narayana and Alex Chohlas-Wood and Austin Peters and Brandon Waldon and Daniel N. Rockmore and Diego Zambrano and Dmitry Talisman and Enam Hoque and Faiz Surani and Frank Fagan and Galit Sarfaty and Gregory M. Dickinson and Haggai Porat and Jason Hegland and Jessica Wu and Joe Nudell and Joel Niklaus and John Nay and Jonathan H. Choi and Kevin Tobia and Margaret Hagan and Megan Ma and Michael Livermore and Nikon Rasumov-Rahe and Nils Holzenberger and Noam Kolt and Peter Henderson and Sean Rehaag and Sharad Goel and Shang Gao and Spencer Williams and Sunny Gandhi and Tom Zur and Varun Iyer and Zehua Li},
+      year={2023},
+      eprint={2308.11462},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
